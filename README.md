@@ -17,3 +17,9 @@ This Application will showcase the Imported Fonts
  * SPA iPhone
  * SPA Android
  * SPA Blackberry
+ 
+ **Tablet**
+ * iPad
+ * Android
+ * SPA iPad
+ * SPA Android
