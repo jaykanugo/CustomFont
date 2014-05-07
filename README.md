@@ -18,7 +18,7 @@ This Application will showcase the Imported Fonts
  * SPA Android
  * SPA Blackberry
  
- **Tablet**
+**Tablet**
  * iPad
  * Android
  * SPA iPad
