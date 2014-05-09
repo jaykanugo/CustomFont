@@ -21,5 +21,9 @@ This Application will showcase the Imported Fonts
 **Tablet**
  * iPad
  * Android
+ * Windows 8
  * SPA iPad
  * SPA Android
+ 
+**DeskTop-Web**
+ * Desktop
